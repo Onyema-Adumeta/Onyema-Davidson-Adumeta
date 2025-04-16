@@ -9,7 +9,7 @@ My work powers real-time dashboards and predictive analytics by transforming dat
 
 📄 [Download My Resume](US_Resume_Onyema_Adumeta.docx)  
 🌐 [Visit My Website](https://www.credenceconsulting.io)  
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/onyema-adumeta/)
 
 ---
 
