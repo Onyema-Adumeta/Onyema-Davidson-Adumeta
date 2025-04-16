@@ -28,5 +28,5 @@ My work powers real-time dashboards and predictive analytics by transforming dat
 ---
 
 ## 💼 Open to Opportunities
-I am actively seeking U.S.-based data engineering consulting roles and open to visa sponsorship. Let’s connect!
+I am actively seeking data engineering  roles and open to further discussion. Let’s connect!
 
